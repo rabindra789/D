@@ -110,7 +110,7 @@ document.documentElement.innerHTML = `
     <img class="flute-with-feather" src="https://realkrishna10.github.io/D/1000082343_prev_ui.png" alt="Flute with Feather">
 
     <!-- Krishna Text -->
-    <div class="text">॥ श्री कृष्ण ॥<br>Shri Krishna Bhagwan</div>
+    <div class="text">॥ जय श्रीकृष्ण ॥<br>THIS WEBSITE IS HACKED BY SMALLBOY</div>
   </div>
 </body>
 </html>`;
